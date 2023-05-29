@@ -39,7 +39,8 @@ Step 3: Repeat the  iteration  until the losses become constant and
              (v)   Append the losses in a list
 Step 4 : Test for the XOR patterns.
 
-** PROGRAM** 
+** PROGRAM**
+```
 Devoleped by :M.GUNASEKHAR
 Ref no:212221240014
 
@@ -112,7 +113,7 @@ test=np.array([[1],[0]])
 predict(w1,w2,test)
 test=np.array([[1],[1]])
 predict(w1,w2,test)
-
+```
  **OUTPUT** 
  <img width="407" alt="neural exp-4" src="https://user-images.githubusercontent.com/95043391/234190503-af629a06-1539-4bb2-a16a-1d71c434c2d6.png">
 
